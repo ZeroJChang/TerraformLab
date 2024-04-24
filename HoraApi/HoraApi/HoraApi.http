@@ -1,0 +1,6 @@
+@HoraApi_HostAddress = http://localhost:5180
+
+GET {{HoraApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

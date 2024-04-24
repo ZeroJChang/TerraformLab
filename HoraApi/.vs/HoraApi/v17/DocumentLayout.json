@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Chang\\Desktop\\Lab Terraform\\HoraApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59895ACB-0647-4876-AB2D-9C352A302EEC}|HoraApi\\HoraApi.csproj|c:\\users\\chang\\desktop\\lab terraform\\horaapi\\horaapi\\controllers\\datetimecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59895ACB-0647-4876-AB2D-9C352A302EEC}|HoraApi\\HoraApi.csproj|solutionrelative:horaapi\\controllers\\datetimecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59895ACB-0647-4876-AB2D-9C352A302EEC}|HoraApi\\HoraApi.csproj|c:\\users\\chang\\desktop\\lab terraform\\horaapi\\horaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59895ACB-0647-4876-AB2D-9C352A302EEC}|HoraApi\\HoraApi.csproj|solutionrelative:horaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59895ACB-0647-4876-AB2D-9C352A302EEC}|HoraApi\\HoraApi.csproj|c:\\users\\chang\\desktop\\lab terraform\\horaapi\\horaapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59895ACB-0647-4876-AB2D-9C352A302EEC}|HoraApi\\HoraApi.csproj|solutionrelative:horaapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Chang\\Desktop\\Lab Terraform\\HoraApi\\HoraApi\\Program.cs",
+              "RelativeDocumentMoniker": "HoraApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Chang\\Desktop\\Lab Terraform\\HoraApi\\HoraApi\\Program.cs",
+              "RelativeToolTip": "HoraApi\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAIwBgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T02:08:34.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DateTimeController.cs",
+              "DocumentMoniker": "C:\\Users\\Chang\\Desktop\\Lab Terraform\\HoraApi\\HoraApi\\Controllers\\DateTimeController.cs",
+              "RelativeDocumentMoniker": "HoraApi\\Controllers\\DateTimeController.cs",
+              "ToolTip": "C:\\Users\\Chang\\Desktop\\Lab Terraform\\HoraApi\\HoraApi\\Controllers\\DateTimeController.cs",
+              "RelativeToolTip": "HoraApi\\Controllers\\DateTimeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T02:06:07.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Chang\\Desktop\\Lab Terraform\\HoraApi\\HoraApi\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "HoraApi\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Chang\\Desktop\\Lab Terraform\\HoraApi\\HoraApi\\WeatherForecast.cs",
+              "RelativeToolTip": "HoraApi\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T02:06:01.176Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>La Hora es:</title>
+</head>
+<body>
+    <h1>La Hora es:</h1>
+    <div id="hora"></div>
+
+    <script>
+        fetch('/api/DateTime')
+            .then(response => response.text())
+            .then(data => {
+                document.getElementById('hora').textContent = data;
+            })
+            .catch(error => {
+                console.error('Error al obtener la hora:', error);
+            });
+    </script>
+</body>
+</html>
