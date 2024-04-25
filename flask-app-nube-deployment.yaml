@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: flask-app-nube
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: flask-app-nube
+  template:
+    metadata:
+      labels:
+        app: flask-app-nube
+    spec:
+      containers:
+      - name: flask-app-nube
+        image: zerojchang/flask-app-nube2:latest
+        ports:
+        - containerPort: 5000
